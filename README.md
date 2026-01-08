@@ -1,10 +1,10 @@
 # cl0wnsss
 
-⚫ Eu sou Daniel, tive meu primeiro contato com computador no ano de 1999, desde entao ate os dias de hoje nao sai da frente de um 🐱‍👤!
+⚫  tive meu primeiro contato com computador no ano de 1999, desde entao ate os dias de hoje nao sai da frente de um 🐱‍👤!
 
 # Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-romaon/) / [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cl0wnsss)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cl0wnsss)
 
 # Habilidade
 
